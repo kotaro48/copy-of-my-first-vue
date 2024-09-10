@@ -1,6 +1,9 @@
 
 
 
+## branch 2 更改点 
+
+
 局部样式<style scoped> </style>
 标签的ref标记 // 不需要加冒号 :ref  本来的话这是个字符串 但其实这里面title2是当作变量处理了
 <div>
